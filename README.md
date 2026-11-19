@@ -7,6 +7,9 @@ A programme for ICB analysts starting their simulation journey, building the fou
 It runs as a flipped classroom. You’ll work through learning material at your own pace before each session, then use session time with tutors for discussion, problem-solving, and going deeper.
 
 ## Where do I start?
+
+For a quick introduction to the course see Introduction[https://github.com/The-Strategy-Unit/simulation-accelerator-course/tree/main/Introduction].
+
 During this course we are going to focus most of our learning on a specific problem. This will help you to connect each new learning component to a context everyone on the course understands and can discuss. The skills you learn will be transferable to your own simulation-based problems which you are encouraged to explore throughout your learning journey. 
 
 By the end of this course you will:
